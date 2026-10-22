@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Données du projet (ne pas pousser sur GitHub)
+data/
+
+# macOS
+.DS_Store
